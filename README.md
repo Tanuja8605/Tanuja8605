@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tanuja Kadam 
 
-<!--
-**Tanuja8605/Tanuja8605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Bachelor of Computer Science (BCS) student
 
-Here are some ideas to get you started:
+💻 Currently learning Python, Data Science, and Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Building my skills in:
+- Python Programming
+- Data Analysis
+- Power BI
+- Data Science
+- Artificial Intelligence
+
+📚 This GitHub profile showcases my learning journey, assignments, practice programs, and projects.
+
+🚀 Goals:
+- Become a Data Analyst / Power BI Developer
+- Build real-world data science projects
+- Continuously improve my programming skills
+
+📫 Connect with me:
+- GitHub: https://github.com/Tanuja8605
